@@ -1,6 +1,6 @@
 {
-  "name": "SHOPORA - Premium Online Shopping Store",
-  "description": "Modern, premium, and fully responsive e-commerce storefront with product search, category filtering, cart drawer, wishlist, and checkout.",
+  "name": "NovaCart — Modern Online Shopping Store",
+  "description": "Clean, modern, premium, and fully responsive e-commerce storefront for NovaCart built with vanilla HTML5, CSS3, and JavaScript, ready for static deployment on Cloudflare Pages and GitHub.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
